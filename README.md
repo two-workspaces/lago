@@ -1,6 +1,6 @@
 # Deploy and Host Lago on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/lago-production?utm_medium=integration&utm_source=button&utm_campaign=lago-production)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/lago-production?referralCode=sLjDXb&utm_medium=integration&utm_source=button&utm_campaign=lago-production)
 
 [Lago](https://www.getlago.com/) is the open-source billing engine for usage-based, subscription and hybrid pricing. It is an alternative to Stripe Billing, Chargebee and Orb. You send usage events to its API, and Lago meters them and applies your plans, coupons, credits and taxes. It then issues invoices with PDFs and pushes them to Stripe, Adyen or GoCardless for payment. This template runs the complete Lago v1.54.0 stack, including the background worker and scheduler that do the actual billing.
 
