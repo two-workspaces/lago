@@ -57,7 +57,7 @@
         "restartPolicyMaxRetries": 10
       },
       "source": {
-        "repo": "https://github.com/nomideusz/lago-railway",
+        "repo": "https://github.com/two-workspaces/lago",
         "rootDirectory": "/api"
       },
       "networking": {
@@ -248,7 +248,7 @@
         "restartPolicyMaxRetries": 10
       },
       "source": {
-        "repo": "https://github.com/nomideusz/lago-railway",
+        "repo": "https://github.com/two-workspaces/lago",
         "rootDirectory": "/postgres"
       },
       "networking": {

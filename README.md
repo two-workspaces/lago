@@ -35,7 +35,7 @@ The stack is five services: Lago, API, PDF, Postgres and Redis.
 - [Lago environment variables](https://getlago.com/docs/guide/self-hosted/docker#environment-variables)
 - [Lago API reference](https://getlago.com/docs/api-reference/intro)
 - [Lago on GitHub](https://github.com/getlago/lago)
-- [Template source on GitHub](https://github.com/nomideusz/lago-railway)
+- [Template source on GitHub](https://github.com/two-workspaces/lago)
 
 ### Implementation Details
 
